@@ -28,4 +28,7 @@ For me programming is creativity on another level: my love for solving complex p
 <br />
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
