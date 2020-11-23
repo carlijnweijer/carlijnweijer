@@ -26,3 +26,6 @@ For me programming is creativity on another level: my love for solving complex p
 
 <br />
 <br />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
