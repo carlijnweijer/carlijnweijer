@@ -4,7 +4,7 @@ For me programming is creativity on another level: my love for solving complex p
 
 🔭 I’m currently working on my Portfolio Project: STUDYCHOICE HUB <br/>
 🌱 I’m currently learning Typescript <br/>
-💬 Ask me about anything [here]!(https://www.linkedin.com/in/carlijnvandeweijer/)
+💬 Ask me about anything [here](https://www.linkedin.com/in/carlijnvandeweijer/)!
 
 ### Languages and Tools:
 
