@@ -30,6 +30,10 @@ For me programming is creativity on another level: my love for solving complex p
 ### THIS WEEK 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   2 hrs 9 mins    ███████████████░░░░░░░░░░   60.45 % 
+JSON         46 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.63 % 
+Markdown     18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Git Config   17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 <!--END_SECTION:waka-->
