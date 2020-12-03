@@ -25,15 +25,3 @@ For me programming is creativity on another level: my love for solving complex p
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
-### THIS WEEK 
-<!--START_SECTION:waka-->
-```text
-TypeScript   23 hrs 1 min    ███████████████░░░░░░░░░░   59.90 % 
-JavaScript   9 hrs 48 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.51 % 
-CSS          2 hrs 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-JSON         1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Git Config   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-```
-<!--END_SECTION:waka-->
