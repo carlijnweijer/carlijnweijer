@@ -3,7 +3,7 @@
 I am currently doing the Codaisseur full stack web developer Bootcamp. For me programming is creativity on another level: my love for solving complex puzzles and painting a masterpiece have come together! Please check out some of the projects I made the past few weeks. 
 I recommend you to visit [STUDYCHOICEHUB](https://studychoicehub.netlify.app/). It's a social platform were students and scholars *in the making*! Students can share experiences to make the study choosing proces easier for scholars. 
 
-🔭 I’m currently working on my Portfolio Project: STUDYCHOICE HUB <br/>
+
 🌱 I’m currently learning Typescript <br/>
 💬 Ask me about anything [here](https://www.linkedin.com/in/carlijnvandeweijer/)! <br/>
 ☕️ I am looking forward to start the next journey of working hard, learning lots and not to forget have lots of fun! Do reach out to me if you want to talk!
