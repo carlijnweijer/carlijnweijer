@@ -4,7 +4,7 @@ I am currently recently graduated from the Codaisseur Full Stack Web Developer B
 I recommend you to visit [STUDYCHOICEHUB](https://studychoicehub.netlify.app/). It's a social platform were students and scholars *in the making*! Students can share experiences to make the study choosing proces easier for scholars. 
 
 
-🌱 I’m currently learning Typescript <br/>
+🌱 I’m currently learning Typescript and React Native<br/>
 💬 Ask me about anything [here](https://www.linkedin.com/in/carlijnvandeweijer/)! <br/>
 ☕️ I am looking forward to start the next journey of working hard, learning lots and not to forget have lots of fun! Do reach out to me if you want to talk!
 
