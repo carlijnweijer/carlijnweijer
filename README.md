@@ -1,8 +1,6 @@
 ## Hey! I'm Carlijn 👋
 
 I am currently recently graduated from the Codaisseur Full Stack Web Developer Bootcamp. For me programming is creativity on another level: my love for solving complex puzzles and painting a masterpiece have come together! Please check out some of the projects I made the past few weeks. 
-I recommend you to visit [STUDYCHOICEHUB](https://studychoicehub.netlify.app/). It's a social platform were students and scholars *in the making*! Students can share experiences to make the study choosing proces easier for scholars. 
-
 
 🌱 I’m currently learning Typescript and React Native<br/>
 💬 Ask me about anything [here](https://www.linkedin.com/in/carlijnvandeweijer/)! <br/>
