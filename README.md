@@ -7,7 +7,7 @@ Please check out some of my projects.
 
 🌱 I’m deep diving into Gatsby and learning more and more about TypeScript<br/>
 💬 Ask me about anything [here](https://www.linkedin.com/in/carlijnvandeweijer/)! <br/>
-☕️ I am looking forward to start the next journey of working hard, learning lots and not to forget have lots of fun! Do reach out to me if you want to talk!
+☕️ Please reach out to me if you want to talk and have a coffee!
 
 ### Languages and Tools I'm getting really good at:
 
