@@ -1,8 +1,11 @@
 ## Hey! I'm Carlijn 👋
 
-I am currently recently graduated from the Codaisseur Full Stack Web Developer Bootcamp. For me programming is creativity on another level: my love for solving complex puzzles and painting a masterpiece have come together! Please check out some of the projects I made the past few weeks. 
+For me programming is creativity on another level: my love for solving complex puzzles and painting a masterpiece have come together! 
+I graduated from the Codaisseur Full Stack Web Developer Bootcamp in December 2020. I am currently working as a Front-end Developer at Ontwerpwerk.
 
-🌱 I’m currently learning Typescript and React Native<br/>
+Please check out some of my projects. 
+
+🌱 I’m deep diving into Gatsby and learning more and more about TypeScript<br/>
 💬 Ask me about anything [here](https://www.linkedin.com/in/carlijnvandeweijer/)! <br/>
 ☕️ I am looking forward to start the next journey of working hard, learning lots and not to forget have lots of fun! Do reach out to me if you want to talk!
 
